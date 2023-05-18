@@ -1,0 +1,17 @@
+
+.function_component{
+    height: 300px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+.special_p {
+   color: rgb(239, 83, 226);
+}

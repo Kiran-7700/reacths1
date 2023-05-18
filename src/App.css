@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+.container{
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient( #c6ffdd, #fbd786, #f7797d);
+  background-repeat: no-repeat;
+}
+
+
+.styling{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; 
+
+
+}
+.App{
+  text-align: center;
+  text-shadow: 4px 4px #72efc2;
+  margin: 0;
+  padding: 0;
+}
+
+button{
+  height: 70px;
+  width: 250px;
+  border: 1px solid black;
+  border-radius: 46px;
+  margin-top: 70px;
+  background-color: #4CAF50;
+  cursor: pointer;
+}
+
+
+button:hover{
+  background-color: rgb(56, 77, 238);
+  color: white
+}
+
+.space_around{
+  display: flex;
+  flex-direction: row;
+ justify-content: space-between;
+}
